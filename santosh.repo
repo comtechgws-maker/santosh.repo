@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Download PPT</title>
+</head>
+<body style="font-family:Arial;text-align:center;margin-top:100px;">
+  <h1>Download My PPT</h1>
+
+  <a href="presentation.pptx" download>
+    <button style="padding:15px 30px;font-size:20px;">
+      Download PPT
+    </button>
+  </a>
+
+</body>
+</html>
